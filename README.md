@@ -1,8 +1,8 @@
 #BagelsAPIAutomation
 Hi Coffee Meets Bagel Team,
 
-    Thanks for this opportunity for letting me prove my API testing knowledge.
-I have completed the assessment and as you mentioned I have several test cases failed.
+   Thanks for this opportunity for letting me prove my API testing knowledge.
+I have completed the assessment and as you mentioned I have several test cases failed.    
 I think my test suite has good coverage to ensure “Bagels” API is working as defined in the requirements. 
 In order to run this project, you need to install Maven and JAVA. Import as a maven project and run with JUnit. 
 I have covered some positive and negative scenarios for both GET and POST methods. 
