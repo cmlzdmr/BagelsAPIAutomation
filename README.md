@@ -10,12 +10,12 @@ You can find all data and results inside the Documents folder in “TestCases”
 I have developed 5 Test cases for each method(GET and POST) using JAVA. 
 If I had more time, I would have developed Data Driven Framework for POST method and test all the test cases.
     Here is the some of the bugs that I found:
-	  GET
+ GET
 - Gender filter is not working 
 - Max_age filter is not inclusive 
 - Offset parameter is not working without limit parameter
 - Distance filter is not working properly (not updating results depending on the distance)
-    POST
+POST
 -	Name field accepts numbers and special characters (depends on requirement)
 -	Age field accepts below and above boundaries (negative value also)
 -	Location accepts name parameter empty. 
